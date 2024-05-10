@@ -1,0 +1,29 @@
+ssignment deadline is Friday 10th of May 2024
+
+· Make sure that you watch all the videos using the YouTube links in the document (1-Learning Git and GitHub.docx)
+
+· If you don’t watch the videos and ask questions that are already answered in the videos, we will refer you back to the video.
+
+· Note that some videos are done using MacOS while some are done using Windows, what is most important is to understand the concept and be able to follow through no matter which of the operating system you are using.
+
+Task to do: 1. Go to Rocket.Chat GitHub account/link: https://github.com/RocketChat
+
+2. Fork the Rocket.Chat repository into your own GitHub account
+
+3. In your GitHub account where you have Forked the Rocket.Chat repo, meaning that you now have your own RocketChat Repository. Create a new branch called “Tecvinson-Assignment”
+
+4. Clone the Rocket.Chat repository that you have cloned to your account
+
+5. Switch the branch to “Tecvinson-Assignment” branch
+
+6. Create a new file called “Tecvinson.txt” in the root folder
+
+7. Add anything you like in “Tecvinson.txt” file
+
+8. Commit the changes and push to your remote Rocket.Chat repository
+
+9. Open a Pull Request and try to merge “Tecvinson-Assignment” branch into the “Develop” branch of the forked Rocket.Chat repository that is your GitHub account.
+
+10. Take a screen shot of the pull request and post it in Teams
+
+11. Also send the URL in Teams
